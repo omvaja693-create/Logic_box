@@ -11,6 +11,9 @@ Logic Box is an interactive command-line application that allows users to genera
 * **Sum Calculation:** Automatically calculates the total sum of all integers within the selected range.
 * **Dynamic Menu:** Features a persistent menu system using a `match-case` structure for easy navigation.
 
+## 📊 Preview
+![Logic Box Output Screenshot](output.PNG)
+
 ## 🛠️ Technical Skills Demonstrated
 * **Control Structures:** Utilized `if`, `else`, and `match-case` for decision-making logic.
 * **Iteration:** Implemented nested `for` loops for geometric patterns and `while` loops for continuous execution.
